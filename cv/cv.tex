@@ -7,7 +7,7 @@
 % http://www.LaTeXTemplates.com
 %
 % Original author:
-% Claud D. Park (posquit0.bj@gmail.com) with modifications by 
+% Claud D. Park (posquit0.bj@gmail.com) with modifications by
 % Vel (vel@latextemplates.com)
 %
 % License:
@@ -42,11 +42,6 @@
 
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad} % If you would like to change the social information separator from a pipe (|) to something else
 
-%----------------------------------------------------------------------------------------
-%	PERSONAL INFORMATION
-%	Comment any of the lines below if they are not required
-%----------------------------------------------------------------------------------------
-
 \name{Aaron}{Glover}
 \mobile{281.221.5071}
 
@@ -56,26 +51,17 @@
 \linkedin{aglove2189}
 \twitter{@aglove2189}
 
-\position{Sr Data Scientist}
+\position{Data Scientist, Machine Learning Engineer}
 \quote{I am value driven, motivated to maximize productivity through simplicity. I take a liberal arts approach to data science, refining decision-making across any organizational level. I find the answers in the questions, clarifying the “why” and predicting “what’s next”.}
-
 \makecvfooter{}{\today}{\thepage} % Specify the letter footer with 3 arguments: (<left>, <center>, <right>), leave any of these blank if they are not needed
-
-%----------------------------------------------------------------------------------------
 
 \begin{document}
 
-\makecvheader % Print the header
+\makecvheader
 
-%----------------------------------------------------------------------------------------
-%	CV/RESUME CONTENT
-%	Each section is imported separately, open each file in turn to modify content
-%----------------------------------------------------------------------------------------
-
+\input{cv-sections/skills.tex}
 \input{cv-sections/experience.tex}
 \input{cv-sections/education.tex}
 \input{cv-sections/projects.tex}
-
-%----------------------------------------------------------------------------------------
 
 \end{document}
