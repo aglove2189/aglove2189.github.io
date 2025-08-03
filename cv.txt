@@ -5,7 +5,7 @@ aglove2189@gmail.com
 Engineering Manager, Machine Learning
 
 Header
-A highly skilled Machine Learning Engineering Manager with over a decade of experience in developing predictive models and data-driven solutions. Proven track record in leading teams, optimizing production processes, driving significant cost savings, and generating revenue. Expertise in Python, modeling, mlops, devops, and cloud platforms.
+A Machine Learning Engineering Manager with over a decade of experience delivering impactful, scalable ML solutions. Proven leader in building and mentoring high-performing teams that drive significant revenue growth and multi-million dollar cost savings. Expertise in the full MLOps lifecycle, cloud-native solutions, and applying predictive modeling to complex business problems.
 
 Skills
 Languages & Packages
@@ -25,12 +25,12 @@ Engineering Manager, Machine Learning
 Enterprise Products
 Houston, TX
 May 2019 - Current
+* Spearheaded the successful integration and doubling of two data science teams, scaling the team from 8 to 16.
+* Engineered and deployed a predictive maintenance solution for critical industrial equipment, extending asset life and saving approximately $100,000 for every three months of extended use.
 * Grew the team from inception to a team of 8 including data scientists, data engineers, PowerBI developers, and quantitative analysts.
-* Focused on developing predictive models to assist with commodity trading. Since inception, over 50 models have been productionized across NGLs, Crude, Natural Gas, spreads, and cross commodities. The outputs of the models assist each trading desk with their portfolio. We also manage our own book, realizing a >80\% gain in 2024. Assets under management are in the multi-millions.
-* Lead the team through building a number of production grade systems and frameworks to assist modeling efforts and development process, including a feature selection process, a 'no-code' model deployment system, and a model evaluation framework. These systems were built entirely in house in python and open source packages.
-* Lead efforts in standardizing and optimizing the entire devops process including unit testing, pull request process, continuous integration, continuous delivery, and release scheduling.
-* Developed a recurrent neural network (RNN) for predicting heat exchanger failures. The model was the first deployed machine learning solution at Enterprise, implemented in the first 8 weeks of hire.
-* Built a Monte Carlo simulation in python and dask that optimized spare parts inventory in the field, savings in the multi-millions by reducing overall inventory housed.
+* Architected and oversaw the production of over 50 predictive models for commodity trading, contributing to an 80% gain on our managed book in 2024.
+* Directed the development of a 'no-code' model deployment system and a comprehensive model evaluation framework, significantly accelerating the path to production for new models.
+* Championed the standardization and optimization of the DevOps lifecycle, implementing robust CI/CD pipelines, unit testing, and automated release schedules.
 
 Machine Learning Engineer
 Sanchez Energy
