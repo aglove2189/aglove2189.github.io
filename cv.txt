@@ -1,0 +1,76 @@
+Aaron Glover
+281.221.5071
+aglove2189@gmail.com
+
+Engineering Manager, Machine Learning
+
+Header
+A highly skilled Machine Learning Engineering Manager with over a decade of experience in developing predictive models and data-driven solutions. Proven track record in leading teams, optimizing production processes, driving significant cost savings, and generating revenue. Expertise in Python, modeling, mlops, devops, and cloud platforms.
+
+Skills
+Languages & Packages
+Python, SQL, pandas, numpy, scikit-learn, keras, pytorch, matplotlib, streamlit, shap, mlflow, Airflow
+
+Platforms
+Docker, Kubernetes, Airflow, AWS, GCP, git, Azure Pipelines, GitHub Actions
+
+Areas of Expertise
+DevOps, Code Optimization, Code Productionization, Python Packaging, Modeling
+
+Soft Skills
+Leadership, Project Management, Strategic Planning, Problem Solving, Communication
+
+Experience
+Engineering Manager, Machine Learning
+Enterprise Products
+Houston, TX
+May 2019 - Current
+* Grew the team from inception to a team of 8 including data scientists, data engineers, PowerBI developers, and quantitative analysts.
+* Focused on developing predictive models to assist with commodity trading. Since inception, over 50 models have been productionized across NGLs, Crude, Natural Gas, spreads, and cross commodities. The outputs of the models assist each trading desk with their portfolio. We also manage our own book, realizing a >80\% gain in 2024. Assets under management are in the multi-millions.
+* Lead the team through building a number of production grade systems and frameworks to assist modeling efforts and development process, including a feature selection process, a 'no-code' model deployment system, and a model evaluation framework. These systems were built entirely in house in python and open source packages.
+* Lead efforts in standardizing and optimizing the entire devops process including unit testing, pull request process, continuous integration, continuous delivery, and release scheduling.
+* Developed a recurrent neural network (RNN) for predicting heat exchanger failures. The model was the first deployed machine learning solution at Enterprise, implemented in the first 8 weeks of hire.
+* Built a Monte Carlo simulation in python and dask that optimized spare parts inventory in the field, savings in the multi-millions by reducing overall inventory housed.
+
+Machine Learning Engineer
+Sanchez Energy
+Houston, TX
+Apr 2017 - May 2019
+
+* Developed a novel model fitting solution for determining a well's spontaneous (SP) log curve using peak detection methods and Kalman filters. The end result was used by the geophysicist team to identify potential oil field plays to target or acquire.
+* Developed a Markov Chain Monte Carlo (MCMC) solution for simulating a well's decline curve and ultimate recovery. This augmented engineering's decision making on how much a well will produce over its lifetime and optimized field development and planning.
+* Optimized an in house developed geophysics simulator in Python which decreased runtime by 6x and lines of code were reduced 10x.
+* Contributed to the development of a multi model prediction framework for predicting well production. The solution was a significant improvement on the industry standard decline curve fitting.
+* Implemented a real time alert for detecting tubing leaks which resulted in a cost savings in the six figures. An industry standard deterministic model was required by Engineering, the model was optimized by sampling the search space with a Tree-structured Parzen Estimator.
+
+Data Analytics Engineer
+Occidental Petroleum
+Houston, TX
+Jan 2012 - Mar 2017
+
+* Developed a Monte Carlo simulation in python to determine the optimal number of workover rigs for a given field. This solution was implemented in multiple fields across Texas and California with a savings in the high six figures.
+* Developed over 350 SSRS reports and Spotfire dashboards for every department in operations, engineering, and production accounting
+* Designed and developed multiple SSAS cubes for operational and well servicing data, query times were reduced 1,000x.
+* Maintained and enhanced the main Operational Data Store (ODS) used company wide for production reporting.
+* Automated the delivery of partner reports utilizing SSRS and SQL which resulted in an 80\% reduction in man hours.
+
+Education
+GPA: 3.8
+Texas A&M
+M.S. in Analytics
+Houston, TX
+May 2017
+Thesis: Predicting the likelihood of ESP well failures utilizing survival analysis and gradient boosting.
+
+GPA: 4.0
+University of North Texas
+B.S. in Information Systems
+Denton, TX
+Dec 2011
+
+Projects
+https://github.com/aglove2189/encant - A user-friendly python version management. tool for developers. (2023)
+https://github.com/aglove2189/appias - A library that integrates a the standard steps for exploring datasets and building machine learning models efficiently. (2019)
+https://twitter.com/taleb_gpt2 - Developed a GPT-2 model trained on Nassim Taleb's quotes to generate insightful and contextually relevant tweets. (2019)
+https://github.com/aglove2189/awair - A Python library for accessing and downloading data from Awair air quality monitors. (2020)
+https://github.com/aglove2189/AdventOfCode - My solutions for Advent of Code.
